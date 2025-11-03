@@ -1,5 +1,3 @@
-# kNN graph Laplacian analysis
+Codes to compute kNN estimation as in the paper "Improved convergence rate of $k$NN graph Laplacians"
 
-This is code of the paper "Improved convergence rate of $k$NN graph Laplacians"
-
-arXiv:
+arXiv version: https://arxiv.org/abs/2410.23212
